@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = /mnt/c/dvcstore
+    url = s3://943996240568-eu-west-1-tps-innovation/dvc-test/
