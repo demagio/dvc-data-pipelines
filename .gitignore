@@ -2,3 +2,4 @@ venv
 /model.pkl
 .idea
 /eval
+/dvc_plots
